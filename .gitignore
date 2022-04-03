@@ -1,0 +1,6 @@
+/.idea/
+/dist/
+/setup.cfg
+/pyproject.toml
+/venv/
+/src/xquery2.egg-info/
